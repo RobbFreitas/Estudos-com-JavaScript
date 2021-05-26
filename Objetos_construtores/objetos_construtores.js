@@ -14,7 +14,7 @@ function aluno (nome, n1, n2){
 
 
 // sintaxe para definir uma estrutura comum entre objetos no JavaScript
-var aluno1 = new aluno("Roberto", 10, 9)
+var aluno1 = new aluno("Roberto", 10, 9);
 console.log(aluno1);
 console.log(aluno1.media());
 
