@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html id="01">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM - Events</title>
+</head>
+<body>
+    <script src="dom-events.js"></script>
+
+    <h1 onclick="console.log('Opa! clicou em mim!')">Clica em mim</h1>
+    
+    <h1 onclick="h1click()">Clique para executar a função</h1>
+
+    <h1 onclick="console.log(this)">Aplicando o This</h1> <!--Nesse caso o This é o próprio elemento-->
+    
+    <h1 onclick="this.style.color = 'red'">This com Style color</h1>
+
+    <h2>Brincando com Change</h2>
+    <input type="text" onchange="changeH2(this)">
+</body>
+</html>
