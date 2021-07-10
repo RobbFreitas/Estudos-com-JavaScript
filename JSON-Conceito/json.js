@@ -17,7 +17,7 @@ let stringify = JSON.stringify(aluno);
 console.log(stringify); // Exibe o "objeto" agora em forma de string normal
 
 let parse = JSON.parse(stringify);
-console.log(parse);
+console.log(parse); // Exibe agora em objeto novamente
 
 let aluno2 = '{"nome": "José", "nota": 7.8}'; // Essa é a notação para se seguir.
 let paraAluno2 = JSON.parse(aluno2);
