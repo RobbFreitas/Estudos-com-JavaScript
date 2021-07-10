@@ -19,7 +19,7 @@ console.log(randArrendondado); //  Gera um número aleatório entre 1 e 10
 let arredondandoPraBaixo = Math.floor(5.99) // Vai pra 5
 console.log(arredondandoPraBaixo);
 
-let arredondandoPraCima = Math.floor(5.001) // Vai pra 6
+let arredondandoPraCima = Math.ceil(5.001) // Vai pra 6
 console.log(arredondandoPraCima);
 
 // Math Object Methods
