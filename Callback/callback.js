@@ -5,7 +5,7 @@ argumento de uma função. Callback. Resumindo: passar
 como um atributo uma função.*/
 
 /*Fazer algo assíncrono acontecer depois de um determinado
-tempo e/ou função ser executada?*/
+tempo e/ou função ser executada.*/
 
 let users = ["José", "Roberto", "Freitas"];
 
