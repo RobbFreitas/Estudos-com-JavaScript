@@ -45,4 +45,4 @@ var cachorros = [ cachorro, cachorro2 ];
 
 // No Array o que identifica o dado é sua posição. No obj, propriedade
 var [ totó, rex ] = cachorros;
-console.log(rex); // Imprimi o totó
+console.log(rex); // Imprime o totó
