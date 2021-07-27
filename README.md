@@ -5,7 +5,6 @@ Registro de estudo dos conceitos básicos a avançados de programação utilizan
 ### Organização 🗂️
 
 + Conceitos e códigos - Básicos a mais avançados 📁
-+ Algoritmos 📁
 + Pequenos projetos 📁
 
 ## O que é JavaScript?
