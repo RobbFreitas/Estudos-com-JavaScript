@@ -1,6 +1,12 @@
-# Estudo em JavaScript
+># Estudo de Programação e da linguagem JavaScript
 
-Registro de estudo dos conceitos básicos a avançados de programação utilizando a linguagem JavaScript. Além de códigos aplicados aos conceitos e uma pasta com Algoritmos utilizados na programação.
+Registro de estudo dos conceitos básicos a avançados de programação utilizando a linguagem JavaScript.
+
+### Organização 🗂️
+
++ Conceitos e códigos - Básicos a mais avançados 📁
++ Algoritmos 📁
++ Pequenos projetos 📁
 
 ## O que é JavaScript?
 ![javascriptlogo](https://github.com/RobbFreitas/Estudos-em-JavaScript/blob/main/jslogo.png)
